@@ -1,9 +1,10 @@
 ### Hello, I'm Backend Developer 👋
 
 <h2> Career</h2>
-<img style="width:12px;height:12px;" src="./img/lotte.png">&nbsp; 롯데정보통신 (2023.10 ~ ) <br>
-<img style="width:12px;height:12px;" src="./img/kt.png">&nbsp; KTDS (2021.01 ~ 2023.10) <br>
-<img style="width:12px;height:12px;" src="./img/superookie.png">&nbsp; 슈퍼루키 (2018.04 ~ 2019.02) <br>
+
+<img style="margin: 3px 0 0 0 ; float:left; width: 15px; height: 14px; max-width: 100%;" src="./img/lotte.png"> 롯데정보통신 (2023.10 ~ ) <br>
+<img style="margin: 3px 0 0 0 ; float:left; width: 15px; height: 14px; max-width: 100%;" src="./img/kt.png"> KTDS (2021.01 ~ 2023.10) <br>
+<img style="margin: 3px 0 0 0 ; float:left; width: 15px; height: 14px; max-width: 100%;" src="./img/superookie.png"> 슈퍼루키 (2018.04 ~ 2019.02) <br>
 <br>
 <hr>
 <h2>Programming Skills</h2>
