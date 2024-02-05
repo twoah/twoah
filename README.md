@@ -1,5 +1,4 @@
 ### Hello, I'm Backend Developer 👋
-
 ## Career
 <img style="margin: 3px 0 0 0 ; float:left; width: 15px; height: 14px; max-width: 100%;" src="./img/lotte.png"> 롯데정보통신 (2021.10 ~ ) <br>
 <img style="margin: 3px 0 0 0 ; float:left; width: 15px; height: 14px; max-width: 100%;" src="./img/kt.png"> KTDS (2021.01 ~ 2021.10) <br>
@@ -15,6 +14,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JSP](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
+
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoah&layout=compact&theme=nord&hide_border=true" /></a> 
 <!--
 **twoah/twoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
