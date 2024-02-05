@@ -7,11 +7,11 @@
 <br>
 ## Programming Skills
 ![JAVA](https://img.shields.io/badge/JAVA-000B1D?style=for-the-badge&logo=JAVA&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1D9FD7?style=for-the-badge&logo=Python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 ![MARIA](https://img.shields.io/badge/MARIA-003545?style=for-the-badge&logo=MARIADB&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1D9FD7?style=for-the-badge&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JSP](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
