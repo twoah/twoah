@@ -5,7 +5,7 @@
 <img style="margin: 3px 0 0 0 ; float:left; width: 15px; height: 14px; max-width: 100%;" src="./img/superookie.png"> 슈퍼루키 (2018.04 ~ 2019.02) <br>
 <br>
 ## Programming Skills
-![JAVA](https://img.shields.io/badge/JAVA-000B1D?style=for-the-badge&logo=JAVA&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-F271F6?style=for-the-badge&logo=JAVA&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 ![MARIA](https://img.shields.io/badge/MARIA-003545?style=for-the-badge&logo=MARIADB&logoColor=white)
