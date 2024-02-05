@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JSP](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
 
-<a href="https://github.com/imysh578"><img align="center" style="width:400px;height:180px; " src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoah&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/imysh578"><img align="center" style="height:200px; " src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoah&layout=compact&theme=nord&hide_border=true" /></a> 
 <!--
 **twoah/twoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
